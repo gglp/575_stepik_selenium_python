@@ -1,2 +1,2 @@
-# 575_stepik_selenium_python
+# Курс 575 Stepik. Selenium и Python
 Проект с выполненными домашними заданиями по курсу Автоматизация тестирования с помощью Selenium и Python
